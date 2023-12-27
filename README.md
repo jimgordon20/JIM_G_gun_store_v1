@@ -8,5 +8,8 @@ Jim-G Gun Store V1 is not just a store; it's a statement.
 
 preview [ https://youtu.be/0p6dBMycI7I ]
 
+
+I will be making updates to this as it's my first shell; there may be a few mistakes in textures.
+
 If you enjoy my work and would like to support me, you can use my link.
 link = https://ko-fi.com/jimgordon1994
