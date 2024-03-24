@@ -1,5 +1,8 @@
 # JIM_G_gun_store_v1
 
+[ Jim G discord ]
+https://discord.gg/6QUTHVA3VP
+
 Jim-G Gun Store V1, where tradition meets technology for an unparalleled gun shopping experience. We've revolutionized the classic gun store concept, infusing it with a modern twist that's sure to leave you in awe
 
 Say goodbye to the outdated gun store aesthetic. Jim-G Gun Store V1 boasts a sleek, contemporary design
